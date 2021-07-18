@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
   width: 100%;
   height: 100vh;
-  font-family: "Tinos", serif;
+  font-family: "Playfair Display", serif;
 }
 
 #background {
@@ -87,7 +87,7 @@ body {
 }
 
 .link:hover {
-  color: #a09faf;
+  color: #a8f0e7;
   background-color: #81dacf;
   transition: 0.5s;
 }
@@ -121,7 +121,7 @@ body {
 }
 
 .option:hover {
-  color: #a09faf;
+  color: #a8f0e7;
   background-color: #81dacf;
   transition: 0.5s;
 }
@@ -167,7 +167,7 @@ body {
 
 .para {
   color: #41acaa;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 .design-line {
@@ -350,10 +350,11 @@ body {
   height: 60%;
   background-color: rgba(247, 216, 215, 0.9);
   margin-right: 0;
-  top: -5rem;
+  top: -3.8rem;
   display: inline-block;
   font-size: 1.5rem;
   text-align: center;
+  margin-top: 0.5rem;
 }
 
 #info-box2 {
@@ -361,11 +362,12 @@ body {
   width: 100%;
   height: 60%;
   background-color: rgba(247, 216, 215, 0.9);
-  top: -5rem;
+  top: -3.8rem;
   margin: 0;
   display: inline-block;
   font-size: 1.5rem;
   text-align: center;
+  margin-top: 0.5rem;
 }
 
 #info-box3 {
@@ -373,11 +375,12 @@ body {
   width: 100%;
   height: 60%;
   background-color: rgba(247, 216, 215, 0.9);
-  top: -5rem;
+  top: -3.8rem;
   margin: 0;
   display: inline-block;
   font-size: 1.5rem;
   text-align: center;
+  margin-top: 0.5rem;
 }
 
 #info-box4 {
@@ -385,7 +388,7 @@ body {
   width: 100%;
   height: 60%;
   background-color: rgba(247, 216, 215, 0.9);
-  top: -5rem;
+  top: -3.8rem;
   margin: 0;
   display: inline-block;
   font-size: 1.5rem;
@@ -393,16 +396,19 @@ body {
 }
 
 #info-images-area h4 {
+  position: relative;
   color: #848391;
   letter-spacing: 0.2rem;
+  font-size: 1.3;
+  top: -1.3rem;
 }
 
 #info-images-area p {
   position: relative;
-  font-size: 1.4rem;
-  top: 0;
+  font-size: 1.3rem;
   margin-top: 0;
   color: #41acaa;
+  top: -1.3rem;
 }
 
 @keyframes slide-up {
@@ -466,7 +472,7 @@ body {
   color: #848391;
   width: 75%;
   height: 15%;
-  font-family: "Tinos", serif;
+  font-family: "Playfair Display", serif;
   font-size: 1.5rem;
 }
 
@@ -495,7 +501,7 @@ body {
 .info-for-img p,
 .info-for-imgs p,
 .info-for-img-1 p {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: #41acaa;
   position: relative;
   left: 5%;
