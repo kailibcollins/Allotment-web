@@ -37,9 +37,10 @@ body {
 #home-header {
   position: relative;
   width: 30%;
-  min-height: 10%;
+  height: 10%;
   top: 0%;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 .title {
@@ -51,7 +52,7 @@ body {
   margin: 0;
   bottom: -1.7rem;
   width: 200%;
-  top: 50%;
+  top: 15%;
 }
 
 #nav-bar {
@@ -87,7 +88,7 @@ body {
 }
 
 .link:hover {
-  color: #a8f0e7;
+  color: #dbf5f2;
   background-color: #81dacf;
   transition: 0.5s;
 }
@@ -432,7 +433,7 @@ body {
   font-size: 2.5rem;
   opacity: 1;
   letter-spacing: 0.2rem;
-  font-weight: 50;
+  font-weight: 300;
 }
 
 #form {
