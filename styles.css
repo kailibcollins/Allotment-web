@@ -22,7 +22,7 @@ body {
   flex-direction: column;
   align-items: center;
   align-content: center;
-  /*min-width: 130rem;*/
+  min-width: 130rem;
   min-height: 100rem;
 }
 
