@@ -41,6 +41,7 @@ body {
   top: 0%;
   margin-bottom: 0;
   margin-top: 0;
+  display: inline-block;
 }
 
 .title {
@@ -222,6 +223,7 @@ body {
   right: 0%;
   border-top-left-radius: 0.2rem;
   border-bottom-left-radius: 0.2rem;
+  text-decoration: none;
 }
 
 .info-for-imgs {
@@ -235,6 +237,7 @@ body {
   right: 0%;
   border-top-left-radius: 0.2rem;
   border-bottom-left-radius: 0.2rem;
+  text-decoration: none;
 }
 
 .info-for-img-1 {
@@ -248,6 +251,7 @@ body {
   right: 0%;
   border-top-left-radius: 0.2rem;
   border-bottom-left-radius: 0.2rem;
+  text-decoration: none;
 }
 
 @keyframes slider {
